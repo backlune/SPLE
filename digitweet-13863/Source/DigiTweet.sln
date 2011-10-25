@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assemblies", "Assemblies", "{77D8BCFA-4E05-4772-A5CF-9ED81D7AA2BF}"
+	ProjectSection(SolutionItems) = preProject
+		Assemblies\Rhino.Mocks.dll = Assemblies\Rhino.Mocks.dll
+		Assemblies\WPFToolkit.dll = Assemblies\WPFToolkit.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2FC8C3B7-6874-4C4B-BCD3-1537BC5852FE}"
+	ProjectSection(SolutionItems) = preProject
+		DigiTweet.vsmdi = DigiTweet.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiFlare.DigiTweet.DataAccess", "DigiFlare.DigiTweet.DataAccess\DigiFlare.DigiTweet.DataAccess.csproj", "{6BE7D128-74D9-49E8-8FE0-EABE34BA0BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiFlare.DigiTweet.UI", "DigiFlare.DigiTweet.UI\DigiFlare.DigiTweet.UI.csproj", "{DCAB4DC9-415A-43B4-9CAB-1922606C69EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blacklight.WPFControls", "Blacklight.WPFControls\Blacklight.WPFControls.csproj", "{030496EB-66A9-48C7-8335-9CB30E2FB3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blacklight.Controls", "Blacklight.Controls\Blacklight.Controls.csproj", "{49349229-35C7-4589-8622-8165757AEF4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiFlare.DigiTweet", "DigiFlare.DigiTweet.Logic\DigiFlare.DigiTweet.csproj", "{22F2C6AE-68F2-4EF6-9544-5E6003B144F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiFlare.DigiTweet.UnitTest", "DigiFlare.DigiTweet.UnitTest\DigiFlare.DigiTweet.UnitTest.csproj", "{93506F2E-99CC-49D5-9DF5-BAC299788B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colorpicker", "colorpickerlib\colorpicker.csproj", "{99E90579-62FC-4898-B168-24F7DBD3A34D}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DigiTweet.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE7D128-74D9-49E8-8FE0-EABE34BA0BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE7D128-74D9-49E8-8FE0-EABE34BA0BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE7D128-74D9-49E8-8FE0-EABE34BA0BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE7D128-74D9-49E8-8FE0-EABE34BA0BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAB4DC9-415A-43B4-9CAB-1922606C69EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAB4DC9-415A-43B4-9CAB-1922606C69EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAB4DC9-415A-43B4-9CAB-1922606C69EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAB4DC9-415A-43B4-9CAB-1922606C69EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030496EB-66A9-48C7-8335-9CB30E2FB3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030496EB-66A9-48C7-8335-9CB30E2FB3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030496EB-66A9-48C7-8335-9CB30E2FB3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030496EB-66A9-48C7-8335-9CB30E2FB3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49349229-35C7-4589-8622-8165757AEF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49349229-35C7-4589-8622-8165757AEF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49349229-35C7-4589-8622-8165757AEF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49349229-35C7-4589-8622-8165757AEF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F2C6AE-68F2-4EF6-9544-5E6003B144F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F2C6AE-68F2-4EF6-9544-5E6003B144F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F2C6AE-68F2-4EF6-9544-5E6003B144F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F2C6AE-68F2-4EF6-9544-5E6003B144F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93506F2E-99CC-49D5-9DF5-BAC299788B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93506F2E-99CC-49D5-9DF5-BAC299788B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93506F2E-99CC-49D5-9DF5-BAC299788B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93506F2E-99CC-49D5-9DF5-BAC299788B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E90579-62FC-4898-B168-24F7DBD3A34D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{99E90579-62FC-4898-B168-24F7DBD3A34D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{99E90579-62FC-4898-B168-24F7DBD3A34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E90579-62FC-4898-B168-24F7DBD3A34D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

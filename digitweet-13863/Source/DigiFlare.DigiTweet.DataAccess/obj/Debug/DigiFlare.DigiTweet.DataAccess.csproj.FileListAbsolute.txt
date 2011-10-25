@@ -1,0 +1,6 @@
+C:\Users\Emil\Downloads\digitweet-13863\Source\DigiFlare.DigiTweet.DataAccess\bin\Debug\DigiFlare.DigiTweet.DataAccess.dll.config
+C:\Users\Emil\Downloads\digitweet-13863\Source\DigiFlare.DigiTweet.DataAccess\bin\Debug\DigiFlare.DigiTweet.DataAccess.dll
+C:\Users\Emil\Downloads\digitweet-13863\Source\DigiFlare.DigiTweet.DataAccess\bin\Debug\DigiFlare.DigiTweet.DataAccess.pdb
+C:\Users\Emil\Downloads\digitweet-13863\Source\DigiFlare.DigiTweet.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emil\Downloads\digitweet-13863\Source\DigiFlare.DigiTweet.DataAccess\obj\Debug\DigiFlare.DigiTweet.DataAccess.dll
+C:\Users\Emil\Downloads\digitweet-13863\Source\DigiFlare.DigiTweet.DataAccess\obj\Debug\DigiFlare.DigiTweet.DataAccess.pdb

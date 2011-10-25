@@ -1,0 +1,10 @@
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\bin\Release\ColorPicker.dll
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\ColorPickerDialog.g.cs
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\ColorPicker_MarkupCompile.cache
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\ColorPicker_MarkupCompile.lref
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\ColorPickerDialog.baml
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\Themes\generic.baml
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\ColorPicker.g.resources
+C:\Users\Emil\Downloads\digitweet-13863\Source\colorpickerlib\obj\Release\ColorPicker.dll

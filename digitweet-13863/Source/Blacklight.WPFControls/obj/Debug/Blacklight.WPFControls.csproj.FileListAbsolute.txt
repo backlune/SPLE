@@ -1,0 +1,14 @@
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\bin\Debug\Blacklight.WPFControls.dll
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\bin\Debug\Blacklight.WPFControls.pdb
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\bin\Debug\WPFToolkit.dll
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\Blacklight.WPFControls_MarkupCompile.cache
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\Blacklight.WPFControls_MarkupCompile.lref
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\Themes\Generic.baml
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\Blacklight.WPFControls.g.resources
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\Blacklight.Controls.Properties.Resources.resources
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\ResGen.read.1.tlog
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\ResGen.write.1.tlog
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\Blacklight.WPFControls.dll
+C:\Users\Emil\Downloads\digitweet-13863\Source\Blacklight.WPFControls\obj\Debug\Blacklight.WPFControls.pdb
